@@ -1,7 +1,7 @@
 
-# 시각장애인 횡단보도 보행 보조 앱, SafeLight
-
 ![logo](https://github.com/hanmango-o/image-resource/blob/master/SafeLight-README/logo.png?raw=true)
+
+# 시각장애인 횡단보도 보행 보조 앱, SafeLight
 
 SafeLight는 시각장애인이 음향신호기 버튼을 직접 누르지 않아도, BLE(Bluetooth Low Energy) 기반으로 앱에서 신호기를 원격 제어할 수 있도록 개발된 횡단보도 보행 보조 앱입니다.
 
