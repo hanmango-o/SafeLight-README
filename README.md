@@ -50,19 +50,6 @@ SafeLight는 BLE 통신을 이용해 음향 신호기를 App으로 제어해 별
     국제 접근성 표준(WCAG)에 부합하도록 개발하고, 한국 웹접근성평가센터의 테스트를 통과하여 사용성을 인증받았습니다.
 
 
-## Tech Stack
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase" />
-    <!-- <img src="http://www.w3.org/2000/svg" /> -->
-    <img 
-  src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="%23007AFF" d="M12 0C6.76 0 3.1484 2.4895 3.1484 12S6.76 24 12 24c5.24 0 8.8516-2.4895 8.8516-12S17.24 0 12 0zm-.7773 1.6816l6.2148 6.2149L13.334 12l4.1035 4.1035-6.2148 6.2149V14.125l-3.418 3.42-1.2422-1.2442L10.8515 12l-4.289-4.3008 1.2422-1.2441 3.418 3.4199V1.6816zm1.748 4.2442v3.9687l1.9844-1.9843-1.9844-1.9844zm0 8.1816v3.9668l1.9844-1.9844-1.9844-1.9824Z"/></svg>' 
-  alt="Bluetooth Icon" 
-  width="48" 
-  height="48" 
-/>
-  </a>
-
 ## Link
 - [AppStore](https://apps.apple.com/kr/app/%EC%84%B8%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8A%B8/id6444276334)
 - [보도자료](https://news.lghellovision.net/news/articleView.html?idxno=408922)
